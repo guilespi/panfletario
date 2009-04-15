@@ -1,4 +1,3 @@
 To be old and wise, you must first have to be young and stupid.
 
-A fork of http://lesswrong.com/ code base, that is
-A fork of the "Reddit codebase":http://code.reddit.com/.
+A fork of http://lesswrong.com/ code base, a fork of the "Reddit codebase":http://code.reddit.com/.
