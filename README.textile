@@ -1,5 +1,4 @@
-The code behind the rationalists community at "lesswrong.com":http://lesswrong.com/.<br />
-Source hosted on "Github":http://github.com/tricycle/lesswrong.<br />
-Issues tracked on "Google Code":http://code.google.com/p/lesswrong/.
+To be old and wise, you must first have to be young and stupid.
 
+A fork of http://lesswrong.com/ code base, that is
 A fork of the "Reddit codebase":http://code.reddit.com/.
